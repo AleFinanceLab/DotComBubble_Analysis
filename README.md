@@ -55,6 +55,7 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 ## 👤 About the Author
 **Alessandro Caivano**  
 MSc Finance Student
+
 📩 LinkedIn: [your LinkedIn URL]  
 📰 Substack: [your Substack URL]  
 📈 GitHub: [this repository URL]  
