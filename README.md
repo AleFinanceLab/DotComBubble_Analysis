@@ -48,6 +48,7 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 
 ## 🗂 Files Included
 | **DotComBubble_Research_A.Caivano.pdf** | Full research paper
+
 | **DotComBubble_Data_A.Caivano.xlsx** | Dataset and calculations for indexes and fundamentals |
 
 ---
