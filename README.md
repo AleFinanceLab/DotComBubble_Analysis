@@ -24,8 +24,11 @@ It combines theoretical perspectives from the Efficient Market Hypothesis (EMH) 
 
 ## 📈 Data & Methodology
 | **NASDAQ & S&P 500 Index Levels (1995–2000)** | Yahoo Finance | Prices, annual returns, volatility, drawdowns | Normalized to 1995 = 100 |
+
 | **Macro Indicators** | FRED Database | GDP Growth, CPI Inflation | Annual averages 1995–2000 |
+
 | **Company Fundamentals** | Macrotrends / FactSet | Price, EPS, Revenue, Profitability | Cisco, Amazon, Intel, Oracle, Microsoft |
+
 | **Failed Firms Dataset** | News Archives | Listing & Bankruptcy Dates | Pets.com, Webvan, eToys |
 
 ### Metrics Used
@@ -47,7 +50,7 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 ---
 
 ## 🗂 Files Included
-| **DotComBubble_Research_A.Caivano.pdf** | Full research paper
+| **DotComBubble_Research_A.Caivano.pdf** | Full research paper 
 
 | **DotComBubble_Data_A.Caivano.xlsx** | Dataset and calculations for indexes and fundamentals |
 
