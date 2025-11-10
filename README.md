@@ -62,7 +62,7 @@ MSc Finance Student
 
 📩 LinkedIn: (https://www.linkedin.com/in/alessandrocaivano/) 
 📰 Substack: [your Substack URL]  
-📈 GitHub: [this repository URL]  
+📈 GitHub: https://github.com/AleFinanceLab/DotComBubble_Analysis/blob/main/README.md 
 
 ---
 
