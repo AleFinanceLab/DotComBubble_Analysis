@@ -60,7 +60,7 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 **Alessandro Caivano**  
 MSc Finance Student
 
-📩 LinkedIn: [your LinkedIn URL]  
+📩 LinkedIn: (https://www.linkedin.com/in/alessandrocaivano/) 
 📰 Substack: [your Substack URL]  
 📈 GitHub: [this repository URL]  
 
