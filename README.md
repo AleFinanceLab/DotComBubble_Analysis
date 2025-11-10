@@ -61,7 +61,9 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 MSc Finance Student
 
 📩 LinkedIn: https://www.linkedin.com/in/alessandrocaivano/ 
+
 📰 Substack: https://substack.com/@alefinancelab? 
+
 📈 GitHub: https://github.com/AleFinanceLab/DotComBubble_Analysis/blob/main/README.md 
 
 ---
