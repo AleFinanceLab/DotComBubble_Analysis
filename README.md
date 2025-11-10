@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Overview
+## 🧭 Introduction and context
 This research investigates whether the late-1990s dot-com bubble can be considered a *rational* or *irrational* episode in financial history.  
 It combines theoretical perspectives from the Efficient Market Hypothesis (EMH) and behavioural finance with empirical evidence from the NASDAQ, S&P 500, and leading technology firms between 1995 and 2001.
 
 ---
 
-## 📊 Key Findings
+## 📊 Key discoveries
 - **NASDAQ +571 %** vs **S&P 500 +167 %** from 1995 to 2000.  
 - **Volatility ≈ 45 %** for NASDAQ annual returns (5× S&P 500).  
 - **Maximum drawdown ≈ −78 %** between 2000 and 2002.  
@@ -56,7 +56,7 @@ Similar patterns can be observed in modern episodes such as the **cryptocurrency
 
 ---
 
-## 👤 About the Author
+## 👤 About the author
 **Alessandro Caivano**  
 MSc Finance Student
 
